@@ -1,2 +1,1 @@
-# SYNOVIAL UI Library
-**Documentation:**
+# 🚀 SYNOVIAL UI Library 🚀
