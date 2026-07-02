@@ -1,6 +1,11 @@
 ## 21.04.2026
 
 ```diff
+[Updated]
+
+## 21.04.2026
+
+```diff
 [features]
 + SaveManager:SetLoadingOrder(enabled: boolean, order: { })
 ```
