@@ -28,7 +28,7 @@ local Toggles = {}
 local Options = {}
 local Tooltips = {}
 
-local BaseURL = "https://raw.githubusercontent.com/JASE08/Obsidian/refs/heads/main/"
+local BaseURL = "https://raw.githubusercontent.com/JASE08/SYNOVIAL/refs/heads/main/"
 local CustomImageManager = {}
 local CustomImageManagerAssets = {
     TransparencyTexture = {
