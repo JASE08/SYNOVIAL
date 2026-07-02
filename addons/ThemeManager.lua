@@ -49,75 +49,75 @@ do
     ThemeManager.BuiltInThemes = {
         ["Default"] = {
             1,
-            { FontColor = "ffffff", MainColor = "191919", AccentColor = "7d55ff", BackgroundColor = "0f0f0f", OutlineColor = "282828" },
+            { FontColor = "ffffff", MainColor = "191919", AccentColor = "7d55ff", BackgroundColor = "0f0f0f", OutlineColor = "282828", BackgroundImage = "" },
         },
         ["BBot"] = {
             2,
-            { FontColor = "ffffff", MainColor = "1e1e1e", AccentColor = "7e48a3", BackgroundColor = "232323", OutlineColor = "141414" },
+            { FontColor = "ffffff", MainColor = "1e1e1e", AccentColor = "7e48a3", BackgroundColor = "232323", OutlineColor = "141414", BackgroundImage = "" },
         },
         ["Fatality"] = {
             3,
-            { FontColor = "ffffff", MainColor = "1e1842", AccentColor = "c50754", BackgroundColor = "191335", OutlineColor = "3c355d" },
+            { FontColor = "ffffff", MainColor = "1e1842", AccentColor = "c50754", BackgroundColor = "191335", OutlineColor = "3c355d", BackgroundImage = "" },
         },
         ["Jester"] = {
             4,
-            { FontColor = "ffffff", MainColor = "242424", AccentColor = "db4467", BackgroundColor = "1c1c1c", OutlineColor = "373737" },
+            { FontColor = "ffffff", MainColor = "242424", AccentColor = "db4467", BackgroundColor = "1c1c1c", OutlineColor = "373737", BackgroundImage = "" },
         },
         ["Mint"] = {
             5,
-            { FontColor = "ffffff", MainColor = "242424", AccentColor = "3db488", BackgroundColor = "1c1c1c", OutlineColor = "373737" },
+            { FontColor = "ffffff", MainColor = "242424", AccentColor = "3db488", BackgroundColor = "1c1c1c", OutlineColor = "373737", BackgroundImage = "" },
         },
         ["Tokyo Night"] = {
             6,
-            { FontColor = "ffffff", MainColor = "191925", AccentColor = "6759b3", BackgroundColor = "16161f", OutlineColor = "323232" },
+            { FontColor = "ffffff", MainColor = "191925", AccentColor = "6759b3", BackgroundColor = "16161f", OutlineColor = "323232", BackgroundImage = "" },
         },
         ["Ubuntu"] = {
             7,
-            { FontColor = "ffffff", MainColor = "3e3e3e", AccentColor = "e2581e", BackgroundColor = "323232", OutlineColor = "191919" },
+            { FontColor = "ffffff", MainColor = "3e3e3e", AccentColor = "e2581e", BackgroundColor = "323232", OutlineColor = "191919", BackgroundImage = "" },
         },
         ["Quartz"] = {
             8,
-            { FontColor = "ffffff", MainColor = "232330", AccentColor = "426e87", BackgroundColor = "1d1b26", OutlineColor = "27232f" },
+            { FontColor = "ffffff", MainColor = "232330", AccentColor = "426e87", BackgroundColor = "1d1b26", OutlineColor = "27232f", BackgroundImage = "" },
         },
         ["Nord"] = {
             9,
-            { FontColor = "eceff4", MainColor = "3b4252", AccentColor = "88c0d0", BackgroundColor = "2e3440", OutlineColor = "4c566a" },
+            { FontColor = "eceff4", MainColor = "3b4252", AccentColor = "88c0d0", BackgroundColor = "2e3440", OutlineColor = "4c566a", BackgroundImage = "" },
         },
         ["Dracula"] = {
             10,
-            { FontColor = "f8f8f2", MainColor = "44475a", AccentColor = "ff79c6", BackgroundColor = "282a36", OutlineColor = "6272a4" },
+            { FontColor = "f8f8f2", MainColor = "44475a", AccentColor = "ff79c6", BackgroundColor = "282a36", OutlineColor = "6272a4", BackgroundImage = "" },
         },
         ["Monokai"] = {
             11,
-            { FontColor = "f8f8f2", MainColor = "272822", AccentColor = "f92672", BackgroundColor = "1e1f1c", OutlineColor = "49483e" },
+            { FontColor = "f8f8f2", MainColor = "272822", AccentColor = "f92672", BackgroundColor = "1e1f1c", OutlineColor = "49483e", BackgroundImage = "" },
         },
         ["Gruvbox"] = {
             12,
-            { FontColor = "ebdbb2", MainColor = "3c3836", AccentColor = "fb4934", BackgroundColor = "282828", OutlineColor = "504945" },
+            { FontColor = "ebdbb2", MainColor = "3c3836", AccentColor = "fb4934", BackgroundColor = "282828", OutlineColor = "504945", BackgroundImage = "" },
         },
         ["Solarized"] = {
             13,
-            { FontColor = "839496", MainColor = "073642", AccentColor = "cb4b16", BackgroundColor = "002b36", OutlineColor = "586e75" },
+            { FontColor = "839496", MainColor = "073642", AccentColor = "cb4b16", BackgroundColor = "002b36", OutlineColor = "586e75", BackgroundImage = "" },
         },
         ["Catppuccin"] = {
             14,
-            { FontColor = "d9e0ee", MainColor = "302d41", AccentColor = "f5c2e7", BackgroundColor = "1e1e2e", OutlineColor = "575268" },
+            { FontColor = "d9e0ee", MainColor = "302d41", AccentColor = "f5c2e7", BackgroundColor = "1e1e2e", OutlineColor = "575268", BackgroundImage = "" },
         },
         ["One Dark"] = {
             15,
-            { FontColor = "abb2bf", MainColor = "282c34", AccentColor = "c678dd", BackgroundColor = "21252b", OutlineColor = "5c6370" },
+            { FontColor = "abb2bf", MainColor = "282c34", AccentColor = "c678dd", BackgroundColor = "21252b", OutlineColor = "5c6370", BackgroundImage = "" },
         },
         ["Cyberpunk"] = {
             16,
-            { FontColor = "f9f9f9", MainColor = "262335", AccentColor = "00ff9f", BackgroundColor = "1a1a2e", OutlineColor = "413c5e" },
+            { FontColor = "f9f9f9", MainColor = "262335", AccentColor = "00ff9f", BackgroundColor = "1a1a2e", OutlineColor = "413c5e", BackgroundImage = "" },
         },
         ["Oceanic Next"] = {
             17,
-            { FontColor = "d8dee9", MainColor = "1b2b34", AccentColor = "6699cc", BackgroundColor = "16232a", OutlineColor = "343d46" },
+            { FontColor = "d8dee9", MainColor = "1b2b34", AccentColor = "6699cc", BackgroundColor = "16232a", OutlineColor = "343d46", BackgroundImage = "" },
         },
         ["Material"] = {
             18,
-            { FontColor = "eeffff", MainColor = "212121", AccentColor = "82aaff", BackgroundColor = "151515", OutlineColor = "424242" },
+            { FontColor = "eeffff", MainColor = "212121", AccentColor = "82aaff", BackgroundColor = "151515", OutlineColor = "424242", BackgroundImage = "" },
         }
     }
 
@@ -180,6 +180,12 @@ do
                 continue
             elseif idx == "FontFace" then
                 self.Library:SetFont(Enum.Font[val])
+
+                if self.Library.Options[idx] then
+                    self.Library.Options[idx]:SetValue(val)
+                end
+            elseif idx == "BackgroundImage" then
+                self.Library:SetBackgroundImage(val)
 
                 if self.Library.Options[idx] then
                     self.Library.Options[idx]:SetValue(val)
@@ -305,6 +311,7 @@ do
             theme[field] = self.Library.Options[field].Value:ToHex()
         end
         theme["FontFace"] = self.Library.Options["FontFace"].Value
+        theme["BackgroundImage"] = self.Library.Options["BackgroundImage"].Value
 
         writefile(self.Folder .. "/themes/" .. file .. ".json", HttpService:JSONEncode(theme))
     end
@@ -352,24 +359,21 @@ do
         end
 
         return out
-    end
-
+                    end
+                    
     --// GUI \\--
     function ThemeManager:CreateThemeManager(groupbox)
-        groupbox
-            :AddLabel("Background color")
-            :AddColorPicker("BackgroundColor", { Default = self.Library.Scheme.BackgroundColor })
+        groupbox:AddLabel("Background color"):AddColorPicker("BackgroundColor", { Default = self.Library.Scheme.BackgroundColor })
         groupbox:AddLabel("Main color"):AddColorPicker("MainColor", { Default = self.Library.Scheme.MainColor })
         groupbox:AddLabel("Accent color"):AddColorPicker("AccentColor", { Default = self.Library.Scheme.AccentColor })
-        groupbox
-            :AddLabel("Outline color")
-            :AddColorPicker("OutlineColor", { Default = self.Library.Scheme.OutlineColor })
+        groupbox:AddLabel("Outline color"):AddColorPicker("OutlineColor", { Default = self.Library.Scheme.OutlineColor })
         groupbox:AddLabel("Font color"):AddColorPicker("FontColor", { Default = self.Library.Scheme.FontColor })
         groupbox:AddDropdown("FontFace", {
             Text = "Font Face",
             Default = "Code",
             Values = { "BuilderSans", "Code", "Fantasy", "Gotham", "Jura", "Roboto", "RobotoMono", "SourceSans" },
         })
+        groupbox:AddInput("BackgroundImage", { Text = "Background Image", Default = "", ClearTextOnFocus = false, ClearTextOnBlur = false })
 
         local ThemesArray = {}
         for Name, Theme in pairs(self.BuiltInThemes) do
@@ -399,17 +403,49 @@ do
         groupbox:AddInput("ThemeManager_CustomThemeName", { Text = "Custom theme name" })
         groupbox:AddButton("Create theme", function()
             local name = self.Library.Options.ThemeManager_CustomThemeName.Value
-
-            if name:gsub(" ", "") == "" then
+            if not name or name:gsub(" ", "") == "" then
                 self.Library:Notify("Invalid theme name (empty)", 2)
                 return
             end
 
-            self:SaveCustomTheme(name)
+            local function SaveTheme()
+                self:SaveCustomTheme(name)
 
-            self.Library:Notify(string.format("Created theme %q", name))
-            self.Library.Options.ThemeManager_CustomThemeList:SetValues(self:ReloadCustomThemes())
-            self.Library.Options.ThemeManager_CustomThemeList:SetValue(nil)
+                self.Library:Notify(string.format("Created theme %q", name))
+                self.Library.Options.ThemeManager_CustomThemeList:SetValues(self:ReloadCustomThemes())
+                self.Library.Options.ThemeManager_CustomThemeList:SetValue(nil)
+            end
+
+            if not self:GetCustomTheme(name) then
+                SaveTheme()
+                return
+            end
+
+            self.Library.Window:AddDialog("ThemeManager_CreateOverwrite", {
+                Title = "Theme already exists",
+                Description = string.format("A custom theme named %q already exists. Overwriting will replace it with your current colors.", name),
+                AutoDismiss = true,
+                FooterButtons = {
+                    Cancel = {
+                        Title = "Cancel",
+                        Variant = "Ghost",
+                        Order = 1,
+                        Callback = function(Dialog)
+                            Dialog:Dismiss()
+                        end
+                    },
+
+                    Overwrite = {
+                        Title = "Overwrite",
+                        Variant = "Destructive",
+                        Order = 2,
+                        Callback = function(Dialog)
+                            Dialog:Dismiss()
+                            SaveTheme()
+                        end
+                    }
+                },
+            })
         end)
 
         groupbox:AddDivider()
@@ -420,54 +456,140 @@ do
         )
         groupbox:AddButton("Load theme", function()
             local name = self.Library.Options.ThemeManager_CustomThemeList.Value
+            if not name or name:gsub(" ", "") == "" then
+                self.Library:Notify("No theme selected", 2)
+                return
+            end
 
             self:ApplyTheme(name)
             self.Library:Notify(string.format("Loaded theme %q", name))
         end)
         groupbox:AddButton("Overwrite theme", function()
             local name = self.Library.Options.ThemeManager_CustomThemeList.Value
-
-            self:SaveCustomTheme(name)
-            self.Library:Notify(string.format("Overwrote config %q", name))
-        end)
-        groupbox:AddButton("Delete theme", function()
-            local name = self.Library.Options.ThemeManager_CustomThemeList.Value
-
-            local success, err = self:Delete(name)
-            if not success then
-                self.Library:Notify("Failed to delete theme: " .. err)
+            if not name or name:gsub(" ", "") == "" then
+                self.Library:Notify("No theme selected", 2)
                 return
             end
 
-            self.Library:Notify(string.format("Deleted theme %q", name))
-            self.Library.Options.ThemeManager_CustomThemeList:SetValues(self:ReloadCustomThemes())
-            self.Library.Options.ThemeManager_CustomThemeList:SetValue(nil)
+            self.Library.Window:AddDialog("ThemeManager_OverwriteTheme", {
+                Title = "Overwrite theme",
+                Description = string.format("Are you sure you want to overwrite %q with your current colors? This cannot be undone.", name),
+                AutoDismiss = true,
+                FooterButtons = {
+                    Cancel = {
+                        Title = "Cancel",
+                        Variant = "Ghost",
+                        Order = 1,
+                        Callback = function(Dialog)
+                            Dialog:Dismiss()
+                        end
+                    },
+
+                    Overwrite = {
+                        Title = "Overwrite",
+                        Variant = "Destructive",
+                        Order = 2,
+                        Callback = function(Dialog)
+                            Dialog:Dismiss()
+
+                            self:SaveCustomTheme(name)
+                            self.Library:Notify(string.format("Overwrote config %q", name))
+                        end
+                    }
+                }
+            })
+        end)
+        groupbox:AddButton("Delete theme", function()
+            local name = self.Library.Options.ThemeManager_CustomThemeList.Value
+            if not name or name:gsub(" ", "") == "" then
+                self.Library:Notify("No theme selected", 2)
+                return
+            end
+
+            self.Library.Window:AddDialog("ThemeManager_DeleteTheme", {
+                Title = "Delete theme",
+                Description = string.format("Are you sure you want to delete %q? This cannot be undone.", name),
+                AutoDismiss = true,
+                FooterButtons = {
+                    Cancel = {
+                        Title = "Cancel",
+                        Variant = "Ghost",
+                        Order = 1,
+                        Callback = function(Dialog)
+                            Dialog:Dismiss()
+                        end
+                    },
+
+                    Delete = {
+                        Title = "Delete",
+                        Variant = "Destructive",
+                        Order = 2,
+                        Callback = function(Dialog)
+                            Dialog:Dismiss()
+
+                            local success, err = self:Delete(name)
+                            if not success then
+                                self.Library:Notify("Failed to delete theme: " .. err)
+                                return
+                            end
+
+                            self.Library:Notify(string.format("Deleted theme %q", name))
+                            self.Library.Options.ThemeManager_CustomThemeList:SetValues(self:ReloadCustomThemes())
+                            self.Library.Options.ThemeManager_CustomThemeList:SetValue(nil)
+                        end
+                    }
+                }
+            })
         end)
         groupbox:AddButton("Refresh list", function()
             self.Library.Options.ThemeManager_CustomThemeList:SetValues(self:ReloadCustomThemes())
             self.Library.Options.ThemeManager_CustomThemeList:SetValue(nil)
         end)
         groupbox:AddButton("Set as default", function()
-            if
-                self.Library.Options.ThemeManager_CustomThemeList.Value ~= nil
-                and self.Library.Options.ThemeManager_CustomThemeList.Value ~= ""
-            then
-                self:SaveDefault(self.Library.Options.ThemeManager_CustomThemeList.Value)
-                self.Library:Notify(
-                    string.format("Set default theme to %q", self.Library.Options.ThemeManager_CustomThemeList.Value)
-                )
-            end
-        end)
-        groupbox:AddButton("Reset default", function()
-            local success = pcall(delfile, self.Folder .. "/themes/default.txt")
-            if not success then
-                self.Library:Notify("Failed to reset default: delete file error")
+            local name = self.Library.Options.ThemeManager_CustomThemeList.Value
+            if not name or name:gsub(" ", "") == "" then
+                self.Library:Notify("No theme selected", 2)
                 return
             end
 
-            self.Library:Notify("Set default theme to nothing")
-            self.Library.Options.ThemeManager_CustomThemeList:SetValues(self:ReloadCustomThemes())
-            self.Library.Options.ThemeManager_CustomThemeList:SetValue(nil)
+            self:SaveDefault(name)
+            self.Library:Notify(string.format("Set default theme to %q", name))
+        end)
+        groupbox:AddButton("Reset default", function()
+            self.Library.Window:AddDialog("ThemeManager_ResetDefault", {
+                Title = "Reset default theme",
+                Description = "Are you sure you want to clear the default theme? The library will revert to its built-in default on next load.",
+                AutoDismiss = true,
+                FooterButtons = {
+                    Cancel = {
+                        Title = "Cancel",
+                        Variant = "Ghost",
+                        Order = 1,
+                        Callback = function(Dialog)
+                            Dialog:Dismiss()
+                        end
+                    },
+
+                    Reset = {
+                        Title = "Reset",
+                        Variant = "Destructive",
+                        Order = 2,
+                        Callback = function(Dialog)
+                            Dialog:Dismiss()
+
+                            local success = pcall(delfile, self.Folder .. "/themes/default.txt")
+                            if not success then
+                                self.Library:Notify("Failed to reset default: delete file error")
+                                return
+                            end
+
+                            self.Library:Notify("Set default theme to nothing")
+                            self.Library.Options.ThemeManager_CustomThemeList:SetValues(self:ReloadCustomThemes())
+                            self.Library.Options.ThemeManager_CustomThemeList:SetValue(nil)
+                        end
+                    }
+                }
+            })
         end)
 
         self:LoadDefault()
@@ -484,18 +606,20 @@ do
         self.Library.Options.FontColor:OnChanged(UpdateTheme)
         self.Library.Options.FontFace:OnChanged(function(Value)
             self.Library:SetFont(Enum.Font[Value])
-            self.Library:UpdateColorsUsingRegistry()
+        end)
+        self.Library.Options.BackgroundImage:OnChanged(function(Value)
+            self.Library:SetBackgroundImage(Value)
         end)
     end
 
-    function ThemeManager:CreateGroupBox(tab)
+    function ThemeManager:CreateGroupBox(tab, icon)
         assert(self.Library, "Must set ThemeManager.Library first!")
-        return tab:AddLeftGroupbox("Themes", "paintbrush")
+        return tab:AddLeftGroupbox("Themes", icon or "paintbrush")
     end
 
-    function ThemeManager:ApplyToTab(tab)
+    function ThemeManager:ApplyToTab(tab, icon)
         assert(self.Library, "Must set ThemeManager.Library first!")
-        local groupbox = self:CreateGroupBox(tab)
+        local groupbox = self:CreateGroupBox(tab, icon)
         self:CreateThemeManager(groupbox)
     end
 
